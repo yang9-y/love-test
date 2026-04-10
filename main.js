@@ -101,7 +101,7 @@ const questions = [
       advantage: "极度可靠、有原则、遇事不慌，能给关系稳稳的安全感。",
       shadow: "偶尔太讲规则，显得不够柔软，容易忽略情绪价值。",
       quote: "我不是狠心，我只是在按原则办事。",
-      img: "images/A.png"
+      img: "A.png"
     },
     B: {
       name: "【纯爱战神 / 清醒逆行者】",
@@ -110,7 +110,7 @@ const questions = [
       advantage: "爱得深刻、专一、有力量，能给对方独一无二的偏爱与坚定。",
       shadow: "过于理想化，容易受伤，也容易与现实格格不入。",
       quote: "我可以输，但我绝不敷衍自己的心。",
-      img: "images/B.png"
+      img: "B.png"
     },
     C: {
       name: "【关系斜杠侠 / 野生路径规划师】",
@@ -119,7 +119,7 @@ const questions = [
       advantage: "灵活、通透、不死板，再难的关系都能被你盘活。",
       shadow: "有时让人觉得不够坚定，像在留退路。",
       quote: "别急着下定论，我总能想到别的办法。",
-      img: "images/C.png"
+      img: "C.png"
     },
     D: {
       name: "【情感精算师 / 防PUA防火墙】",
@@ -128,7 +128,7 @@ const questions = [
       advantage: "极度清醒、边界感强、不内耗、不被拿捏。",
       shadow: "太过理性，容易被误解为冷漠、算计、不够爱。",
       quote: "我不是不爱，我只是不想赔上全部的自己。",
-      img: "images/D.png"
+      img: "D.png"
     }
   };
   
